@@ -1,0 +1,2 @@
+
+主从切换由leader发起，如何选出leader呢？使用raft算法
